@@ -1,0 +1,21 @@
+Hello, this is a template for testing CLIHandler.
+
+Here are possible column title in csv file.
+The output from this template should include all correct data.
+
+first_name: [[first_name]]
+last_name: [[last_name]]
+company_name: [[company_name]]
+address: [[address]]
+city: [[city]]
+county: [[county]]
+state: [[state]]
+zip: [[zip]]
+phone1: [[phone1]]
+phone2: [[phone2]]
+email: [[email]]
+web: [[web]]
+
+And output file name should be 'Key Command Name' + 'DateTime' + 'random case number'.
+Yours,
+@author Xihao Liu
