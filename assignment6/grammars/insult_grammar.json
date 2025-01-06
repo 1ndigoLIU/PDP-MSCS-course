@@ -1,0 +1,30 @@
+{
+  "grammarTitle": "Insult Generator",
+  "grammarDesc": "A grammar that generates random insults.",
+  "start": [
+    "You <verb> like a <noun>!",
+    "What a <adjective> <noun> you are!",
+    "Only a <adjective> <noun> would <verb> like that."
+  ],
+  "verb": [
+    "smell",
+    "walk",
+    "talk",
+    "think",
+    "behave"
+  ],
+  "noun": [
+    "wet sock",
+    "rotten cabbage",
+    "dull spoon",
+    "lazy sloth",
+    "headless chicken"
+  ],
+  "adjective": [
+    "pathetic",
+    "ridiculous",
+    "smelly",
+    "dim-witted",
+    "absurd"
+  ]
+}
